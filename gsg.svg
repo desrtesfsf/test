@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+  <circle cx="150" cy="150" r="100" fill="red" />
+  <script type="text/javascript">
+    alert(document.domain);
+  </script>
+</svg>
